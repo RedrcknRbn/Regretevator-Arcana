@@ -1,0 +1,16 @@
+{
+	"id": "regretevatorarcana",
+	"name": "Regretevator Arcana Texture Pack",
+	"display_name": "RA",
+	"author": ["RedrcknRbn", "NataKilar"],
+	"description": "Texture Pack that adds Regretevator Characters to the Arcana Cards",
+	"prefix": "ratp",
+	"main_file": "Textures.lua",
+	"priority": -100,
+	"badge_colour": "d18017",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.1.0",
+	"dependencies": [
+		"Lovely (>=0.6)"
+    ]
+}
