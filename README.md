@@ -21,7 +21,7 @@ High Priestess - Stat
 
 Empress - Mozelle
 
-Emperor - Mach
+Emperor - ??
 
 Heirophant - MR
 
