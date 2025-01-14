@@ -2,7 +2,7 @@ Note, I am not good at pixel art, so the textures currently do not line up with 
 
 If you are a pixel artist, please PR or dm @redrcknrbn on Discord
 
-Also this isn't finished yet. Currently done cards: NONE
+Also this isn't finished yet. Currently done cards: Party Noob, Prototype, Wallter & Mannequin Mark, Folly, Pest, Mach
 
 # Regretevator Arcana Texture Pack
 A texture pack for Balatro which retextures all tarot cards to be Regretevator Characters.
@@ -25,7 +25,7 @@ Emperor - Mach
 
 Heirophant - MR
 
-Lovers - Wallter & Mark
+Lovers - Wallter & Mannequin Mark
 
 Chariot - Scag
 
@@ -55,7 +55,7 @@ Sun - Split
 
 Judgement - Lampert
 
-World - [Krait](https://regretevator.fandom.com/wiki/Minor_NPCs_and_Characters#Krait) & [Lora](https://regretevator.fandom.com/wiki/Minor_NPCs_and_Characters#Lora)
+World - Mach
 
 # Credits
 All code in this mod was created by [NataKilar](https://github.com/NataKilar)
